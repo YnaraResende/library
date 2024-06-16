@@ -16,9 +16,8 @@ Desenvolvimento do projeto utilizando a versão mais recente do TypeScript. Inte
 
 ## Tecnologias utilizadas
 
-NodeJS - v18.15.0
-TypeScript - v5.4.5
-Visual Studio Code
-TypeORM
-SQLite
-
+NodeJS - v18.15.0;
+TypeScript - v5.4.5;
+Visual Studio Code;
+TypeORM;
+SQLite.
